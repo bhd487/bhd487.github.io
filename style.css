@@ -1,0 +1,18 @@
+body{
+background-color: rgb(238, 238, 238);}
+    h1 {color: rgb(1, 1, 1);
+        border:1px solid rgb(0, 0, 0);}
+    p  {color: rgb(0, 0, 0);}
+    .newitems {color: rgb(31, 31, 31);}
+.kitara1 {
+    width: 150px;
+}
+.kitara2 {
+    width: 183px;
+}
+.kitara3 {
+    width: 162.5px;
+}
+.kitara4 {
+    width: 162.5px;
+}
