@@ -1,9 +1,8 @@
 body{
-background-color: rgb(238, 238, 238);}
-    h1 {color: rgb(1, 1, 1);
+background-color: rgb(255, 255, 255);}
+    h1 {color: rgb(9, 161, 1);
         border:1px solid rgb(0, 0, 0);}
     p  {color: rgb(0, 0, 0);}
-    .newitems {color: rgb(31, 31, 31);}
 .kitara1 {
     width: 150px;
 }
@@ -16,3 +15,30 @@ background-color: rgb(238, 238, 238);}
 .kitara4 {
     width: 162.5px;
 }
+.kitara5 {
+    width:130.9px ;
+}
+.kitara6 {
+    width: 127.39px;
+}
+.kitara7 {
+    width: 147.9px;
+}
+li {
+    display: inline;
+    padding: 14px 16px;
+    font-size: small;
+  }
+a:link {color: black;}
+:active {color: rgb(76, 76, 76);}
+a:visited {
+    color: black;
+}
+.container { 
+    display: flex;
+    flex-direction: column; 
+        }
+
+     
+       
+          
