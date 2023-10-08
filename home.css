@@ -48,3 +48,7 @@ body{
  .lista
 {color: rgb(168, 168, 168);}          
               
+.kartta1 {
+    width: 200px;
+    height: 100px;
+}
